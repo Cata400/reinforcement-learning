@@ -1,0 +1,32 @@
+[
+    {
+        "model": "MsPacman-v4-policy-cnn-1-1M.zip",
+        "test_mean_score": 1252.6,
+        "test_std_score": 514.7288995189604
+    },
+    {
+        "model": "MsPacman-v4-policy-cnn-1_10M.zip",
+        "test_mean_score": 2086.32,
+        "test_std_score": 739.4246801399044
+    },
+    {
+        "model": "Breakout-v4-policy-cnn-1-10M.zip",
+        "test_mean_score": 5.508,
+        "test_std_score": 2.230232274898738
+    },
+    {
+        "model": "Breakout-v4-policy-cnn-1-1M.zip",
+        "test_mean_score": 1.525,
+        "test_std_score": 1.3635890143294642
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-cnn-1-10M.zip",
+        "test_mean_score": 188.015,
+        "test_std_score": 117.31105990059078
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-cnn-1-1M.zip",
+        "test_mean_score": 138.735,
+        "test_std_score": 110.21104651984754
+    }
+]

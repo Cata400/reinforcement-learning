@@ -1,0 +1,434 @@
+[
+    {
+        "model": "MsPacman-v4-policy-fc-1-10K_best_mean.pt",
+        "train_max_score": 4320.0,
+        "train_max_mean": 912.8,
+        "test_max_score": 2030.0,
+        "test_mean_score": 158.12,
+        "test_std_score": 107.97159626494367
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-1-10K_best_score.pt",
+        "train_max_score": 4320.0,
+        "train_max_mean": 766.9,
+        "test_max_score": 1640.0,
+        "test_mean_score": 769.12,
+        "test_std_score": 76.55211035627953
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-1-10K_last.pt",
+        "train_max_score": 4320.0,
+        "train_max_mean": 912.8,
+        "test_max_score": 2500.0,
+        "test_mean_score": 772.87,
+        "test_std_score": 437.6846617143443
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-1_best_mean.pt",
+        "train_max_score": 2200.0,
+        "train_max_mean": 806.9,
+        "test_max_score": 2440.0,
+        "test_mean_score": 531.46,
+        "test_std_score": 258.8027596452557
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-1_best_score.pt",
+        "train_max_score": 3630.0,
+        "train_max_mean": 806.9,
+        "test_max_score": 2730.0,
+        "test_mean_score": 573.48,
+        "test_std_score": 323.50933464121243
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-1_last.pt",
+        "train_max_score": 3630.0,
+        "train_max_mean": 806.9,
+        "test_max_score": 2410.0,
+        "test_mean_score": 528.07,
+        "test_std_score": 205.1676755729323
+    },
+    {
+        "model": "Breakout-v4-policy-fc-1-10K_best_mean.pt",
+        "train_max_score": 24.0,
+        "train_max_mean": 10.38,
+        "test_max_score": 24.0,
+        "test_mean_score": 10.291,
+        "test_std_score": 3.7427688948157085
+    },
+    {
+        "model": "Breakout-v4-policy-fc-1-10K_best_score.pt",
+        "train_max_score": 26.0,
+        "train_max_mean": 10.38,
+        "test_max_score": 16.0,
+        "test_mean_score": 5.888,
+        "test_std_score": 2.59489036377262
+    },
+    {
+        "model": "Breakout-v4-policy-fc-1-10K_last.pt",
+        "train_max_score": 26.0,
+        "train_max_mean": 10.38,
+        "test_max_score": 12.0,
+        "test_mean_score": 5.689,
+        "test_std_score": 2.0924337504446826
+    },
+    {
+        "model": "Breakout-v4-policy-fc-1_best_mean.pt",
+        "train_max_score": 13.0,
+        "train_max_mean": 5.34,
+        "test_max_score": 12.0,
+        "test_mean_score": 3.649,
+        "test_std_score": 2.373562512342997
+    },
+    {
+        "model": "Breakout-v4-policy-fc-1_best_score.pt",
+        "train_max_score": 13.0,
+        "train_max_mean": 4.42,
+        "test_max_score": 3.0,
+        "test_mean_score": 1.96,
+        "test_std_score": 0.9891410415102591
+    },
+    {
+        "model": "Breakout-v4-policy-fc-1_last.pt",
+        "train_max_score": 13.0,
+        "train_max_mean": 5.34,
+        "test_max_score": 15.0,
+        "test_mean_score": 4.298,
+        "test_std_score": 2.3382035839507216
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-1-10K_best_mean.pt",
+        "train_max_score": 1405.0,
+        "train_max_mean": 323.6,
+        "test_max_score": 915.0,
+        "test_mean_score": 332.92,
+        "test_std_score": 157.0857205477315
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-1-10K_best_score.pt",
+        "train_max_score": 1405.0,
+        "train_max_mean": 312.4,
+        "test_max_score": 1070.0,
+        "test_mean_score": 379.625,
+        "test_std_score": 175.05137638704815
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-1-10K_last.pt",
+        "train_max_score": 1405.0,
+        "train_max_mean": 323.6,
+        "test_max_score": 1090.0,
+        "test_mean_score": 300.235,
+        "test_std_score": 148.73792312319006
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-1_best_mean.pt",
+        "train_max_score": 935.0,
+        "train_max_mean": 276.35,
+        "test_max_score": 1130.0,
+        "test_mean_score": 244.07,
+        "test_std_score": 149.13143565325186
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-1_best_score.pt",
+        "train_max_score": 935.0,
+        "train_max_mean": 266.45,
+        "test_max_score": 945.0,
+        "test_mean_score": 272.48,
+        "test_std_score": 133.18182909090862
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-1_last.pt",
+        "train_max_score": 935.0,
+        "train_max_mean": 276.35,
+        "test_max_score": 970.0,
+        "test_mean_score": 233.65,
+        "test_std_score": 139.90095603676198
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-2_best_mean.pt",
+        "train_max_score": 3890.0,
+        "train_max_mean": 939.1,
+        "test_max_score": 2900.0,
+        "test_mean_score": 1073.66,
+        "test_std_score": 391.72133513506765
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-2_best_score.pt",
+        "train_max_score": 3890.0,
+        "train_max_mean": 890.7,
+        "test_max_score": 2690.0,
+        "test_mean_score": 743.63,
+        "test_std_score": 383.03488496480315
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-2_last.pt",
+        "train_max_score": 3890.0,
+        "train_max_mean": 939.1,
+        "test_max_score": 4000.0,
+        "test_mean_score": 1267.48,
+        "test_std_score": 714.8664557803786
+    },
+    {
+        "model": "Breakout-v4-policy-fc-2_best_mean.pt",
+        "train_max_score": 14.0,
+        "train_max_mean": 5.14,
+        "test_max_score": 19.0,
+        "test_mean_score": 3.789,
+        "test_std_score": 2.020514538428269
+    },
+    {
+        "model": "Breakout-v4-policy-fc-2_best_score.pt",
+        "train_max_score": 14.0,
+        "train_max_mean": 4.6,
+        "test_max_score": 11.0,
+        "test_mean_score": 3.945,
+        "test_std_score": 1.920930763978754
+    },
+    {
+        "model": "Breakout-v4-policy-fc-2_last.pt",
+        "train_max_score": 14.0,
+        "train_max_mean": 5.14,
+        "test_max_score": 14.0,
+        "test_mean_score": 3.45,
+        "test_std_score": 2.074969879299456
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-2_best_mean.pt",
+        "train_max_score": 990.0,
+        "train_max_mean": 324.9,
+        "test_max_score": 750.0,
+        "test_mean_score": 195.73,
+        "test_std_score": 134.66204773431897
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-2_best_score.pt",
+        "train_max_score": 1045.0,
+        "train_max_mean": 324.9,
+        "test_max_score": 935.0,
+        "test_mean_score": 278.61,
+        "test_std_score": 139.92200648932962
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-2_last.pt",
+        "train_max_score": 1045.0,
+        "train_max_mean": 324.9,
+        "test_max_score": 1170.0,
+        "test_mean_score": 263.415,
+        "test_std_score": 155.37812836754082
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-3_best_mean.pt",
+        "train_max_score": 2380.0,
+        "train_max_mean": 814.1,
+        "test_max_score": 2250.0,
+        "test_mean_score": 360.29,
+        "test_std_score": 227.98468347676342
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-3_best_score.pt",
+        "train_max_score": 3680.0,
+        "train_max_mean": 814.1,
+        "test_max_score": 3600.0,
+        "test_mean_score": 497.29,
+        "test_std_score": 353.0259989009308
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-3_last.pt",
+        "train_max_score": 3680.0,
+        "train_max_mean": 814.1,
+        "test_max_score": 1700.0,
+        "test_mean_score": 514.64,
+        "test_std_score": 285.537861587566
+    },
+    {
+        "model": "Breakout-v4-policy-fc-3_best_mean.pt",
+        "train_max_score": 17.0,
+        "train_max_mean": 7.1,
+        "test_max_score": 18.0,
+        "test_mean_score": 6.234,
+        "test_std_score": 2.649008116257857
+    },
+    {
+        "model": "Breakout-v4-policy-fc-3_best_score.pt",
+        "train_max_score": 17.0,
+        "train_max_mean": 5.56,
+        "test_max_score": 10.0,
+        "test_mean_score": 3.442,
+        "test_std_score": 1.670519679620686
+    },
+    {
+        "model": "Breakout-v4-policy-fc-3_last.pt",
+        "train_max_score": 17.0,
+        "train_max_mean": 7.1,
+        "test_max_score": 18.0,
+        "test_mean_score": 5.736,
+        "test_std_score": 2.44014425803066
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-3_best_mean.pt",
+        "train_max_score": 835.0,
+        "train_max_mean": 277.3,
+        "test_max_score": 875.0,
+        "test_mean_score": 224.03,
+        "test_std_score": 156.41821856804276
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-3_best_score.pt",
+        "train_max_score": 835.0,
+        "train_max_mean": 255.85,
+        "test_max_score": 980.0,
+        "test_mean_score": 253.0,
+        "test_std_score": 126.68405582392758
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-3_last.pt",
+        "train_max_score": 835.0,
+        "train_max_mean": 277.3,
+        "test_max_score": 950.0,
+        "test_mean_score": 219.64,
+        "test_std_score": 152.59364469072753
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-4_best_mean.pt",
+        "train_max_score": 3290.0,
+        "train_max_mean": 880.8,
+        "test_max_score": 2600.0,
+        "test_mean_score": 1052.95,
+        "test_std_score": 181.00220302526708
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-4_best_score.pt",
+        "train_max_score": 3290.0,
+        "train_max_mean": 750.3,
+        "test_max_score": 4180.0,
+        "test_mean_score": 1401.04,
+        "test_std_score": 508.64458947284595
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-4_last.pt",
+        "train_max_score": 3290.0,
+        "train_max_mean": 880.8,
+        "test_max_score": 2340.0,
+        "test_mean_score": 602.98,
+        "test_std_score": 338.1829676373427
+    },
+    {
+        "model": "Breakout-v4-policy-fc-4_best_mean.pt",
+        "train_max_score": 15.0,
+        "train_max_mean": 7.2,
+        "test_max_score": 17.0,
+        "test_mean_score": 5.16,
+        "test_std_score": 2.1694238866574693
+    },
+    {
+        "model": "Breakout-v4-policy-fc-4_best_score.pt",
+        "train_max_score": 17.0,
+        "train_max_mean": 7.2,
+        "test_max_score": 21.0,
+        "test_mean_score": 6.676,
+        "test_std_score": 2.468
+    },
+    {
+        "model": "Breakout-v4-policy-fc-4_last.pt",
+        "train_max_score": 17.0,
+        "train_max_mean": 7.2,
+        "test_max_score": 18.0,
+        "test_mean_score": 6.626,
+        "test_std_score": 2.3753155579838228
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-4_best_mean.pt",
+        "train_max_score": 820.0,
+        "train_max_mean": 271.15,
+        "test_max_score": 980.0,
+        "test_mean_score": 213.33,
+        "test_std_score": 116.68787897635296
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-4_best_score.pt",
+        "train_max_score": 820.0,
+        "train_max_mean": 261.0,
+        "test_max_score": 745.0,
+        "test_mean_score": 224.415,
+        "test_std_score": 97.48067898306823
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-4_last.pt",
+        "train_max_score": 820.0,
+        "train_max_mean": 271.15,
+        "test_max_score": 1150.0,
+        "test_mean_score": 357.11,
+        "test_std_score": 138.32858670571315
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-5_best_mean.pt",
+        "train_max_score": 4300.0,
+        "train_max_mean": 671.7,
+        "test_max_score": 2270.0,
+        "test_mean_score": 885.34,
+        "test_std_score": 270.4634622273404
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-5_best_score.pt",
+        "train_max_score": 4300.0,
+        "train_max_mean": 0,
+        "test_max_score": 2470.0,
+        "test_mean_score": 463.83,
+        "test_std_score": 342.0734293978414
+    },
+    {
+        "model": "MsPacman-v4-policy-fc-5_last.pt",
+        "train_max_score": 4300.0,
+        "train_max_mean": 671.7,
+        "test_max_score": 1330.0,
+        "test_mean_score": 473.86,
+        "test_std_score": 115.33733307130004
+    },
+    {
+        "model": "Breakout-v4-policy-fc-5_best_mean.pt",
+        "train_max_score": 18.0,
+        "train_max_mean": 6.47,
+        "test_max_score": 15.0,
+        "test_mean_score": 4.715,
+        "test_std_score": 1.8049307465938964
+    },
+    {
+        "model": "Breakout-v4-policy-fc-5_best_score.pt",
+        "train_max_score": 18.0,
+        "train_max_mean": 5.97,
+        "test_max_score": 17.0,
+        "test_mean_score": 7.306,
+        "test_std_score": 2.403406748763097
+    },
+    {
+        "model": "Breakout-v4-policy-fc-5_last.pt",
+        "train_max_score": 18.0,
+        "train_max_mean": 6.47,
+        "test_max_score": 18.0,
+        "test_mean_score": 6.455,
+        "test_std_score": 2.164711297147959
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-5_best_mean.pt",
+        "train_max_score": 940.0,
+        "train_max_mean": 278.05,
+        "test_max_score": 775.0,
+        "test_mean_score": 219.91,
+        "test_std_score": 105.8387542443693
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-5_best_score.pt",
+        "train_max_score": 940.0,
+        "train_max_mean": 261.4,
+        "test_max_score": 1140.0,
+        "test_mean_score": 220.715,
+        "test_std_score": 132.32880931603668
+    },
+    {
+        "model": "SpaceInvaders-v4-policy-fc-5_last.pt",
+        "train_max_score": 940.0,
+        "train_max_mean": 278.05,
+        "test_max_score": 845.0,
+        "test_mean_score": 269.555,
+        "test_std_score": 114.08802292528345
+    }
+]

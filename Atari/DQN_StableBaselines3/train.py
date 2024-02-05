@@ -6,9 +6,6 @@ import gymnasium as gym
 import time
 
 
-# TODO: DQN good
-
-
 def test_env(env):     
     episodes = 5 
     for episode in range(episodes):
@@ -44,7 +41,6 @@ if __name__ == '__main__':
     # env = gym.make(env_name, render_mode="human", difficulty=difficulty)
     # test_env(env)
     
-    # Stacking 4 environments in order to train on all of them faster in parallel
     env = make_atari_env(env_name, n_envs=1, seed=42, env_kwargs={"difficulty": difficulty, "obs_type": 'rgb'})
     env = VecFrameStack(env, n_stack=1)
     

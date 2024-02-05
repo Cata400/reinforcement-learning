@@ -45,7 +45,7 @@ if __name__ == '__main__':
     target_net = utils.DQN(input_shape=len(state), n_actions=n_actions).to(device)
     target_net.load_state_dict(policy_net.state_dict())
     
-    optimizer = torch.optim.AdamW(policy_net.parameters(), lr=lr, amsgrad=True)
+    optimizer = torch.optim.Adam(policy_net.parameters(), lr=lr, amsgrad=True)
     memory = utils.ReplayMemory(10000)
     
     steps_done = 0

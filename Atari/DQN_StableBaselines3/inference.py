@@ -17,6 +17,8 @@ if __name__ == '__main__':
     
     model = DQN.load(model_path, env)
     
+    print(model.policy)
+    
     # Model evaluation
-    mean_reward, std_reward = evaluate_policy(model, env, n_eval_episodes=5, render=True)
+    mean_reward, std_reward = evaluate_policy(model, env, n_eval_episodes=1, render=True)
     print(f'{mean_reward = }; {std_reward = }')

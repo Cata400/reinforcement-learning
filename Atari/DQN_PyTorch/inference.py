@@ -41,5 +41,7 @@ if __name__ == '__main__':
             if done:
                 print(f"Score: {episode_reward}")
                 break
+            
+    env.close()
 
     print("Completed")

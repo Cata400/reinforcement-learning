@@ -4,3 +4,9 @@ Atari/DQN_StableBaselines3/Logs/
 Atari/DQN_StableBaselines3/Models/
 
 Self_Driving/Models/
+
+__pycache__/
+
+.vscode/
+
+checkpoint/
